@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentSys.Bll\PaymentSys.Bll.csproj" />
+    <ProjectReference Include="..\PaymentSys.Dal\PaymentSys.Dal.csproj" />
+    <ProjectReference Include="..\PaymentSys.Entity\PaymentSys.Entity.csproj" />
+    <ProjectReference Include="..\PaymentSys.Interface\PaymentSys.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

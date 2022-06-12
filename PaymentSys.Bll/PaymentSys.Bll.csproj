@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentSys.Dal\PaymentSys.Dal.csproj" />
+    <ProjectReference Include="..\PaymentSys.Entity\PaymentSys.Entity.csproj" />
+    <ProjectReference Include="..\PaymentSys.Interface\PaymentSys.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

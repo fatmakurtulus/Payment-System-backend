@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\bin\Debug\net5.0\PaymentSys.Interface.deps.json
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\bin\Debug\net5.0\PaymentSys.Interface.dll
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\bin\Debug\net5.0\ref\PaymentSys.Interface.dll
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\bin\Debug\net5.0\PaymentSys.Interface.pdb
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.dll
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\ref\PaymentSys.Interface.dll
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.pdb
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\bin\Debug\net5.0\PaymentSys.Entity.dll
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\bin\Debug\net5.0\PaymentSys.Entity.pdb
+C:\Users\LENOVO\Desktop\gelecek_varlık\proje\PaymentSys\PaymentSys.Interface\obj\Debug\net5.0\PaymentSys.Interface.csproj.CopyComplete
