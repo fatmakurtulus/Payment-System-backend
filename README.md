@@ -21,7 +21,7 @@ tek atama yapılabilir.
 - Aylık olarak borç-alacak listesini görür.
 - Kişileri listeler, düzenler, siler.
 - Daire/konut bilgilerini listeler, düzenler siler.
-- 
+
 ### 2-Kullanıcı
 - Kendisine atanan fatura ve aidat bilgilerini görür.
 - Sadece kredi kartı ile ödeme yapabilir.
