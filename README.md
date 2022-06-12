@@ -45,11 +45,11 @@ Kullanıcı bilgilerinde
 - Araç bilgisi(varsa plaka no)
 
 Sistem kullanılmaya başladığında ilk olarak
-1 Yönetici daire bilgilerini girer.
-2 Kullanıcı bilgilerini girer.Giriş yapması için otomatik olarak bir şifre oluşturulur.
-3 Kullanıcıları dairelere atar
-4 Ay bazlı olarak aidat bilgilerini girer.
-5 Ay bazlı olarak fatura bilgilerini girer
+1. Yönetici daire bilgilerini girer.
+2. Kullanıcı bilgilerini girer.Giriş yapması için otomatik olarak bir şifre oluşturulur.
+3. Kullanıcıları dairelere atar
+4. Ay bazlı olarak aidat bilgilerini girer.
+5. Ay bazlı olarak fatura bilgilerini girer
 
 Arayüz dışında kullanıcıların kredi kartı ile ödeme yapabilmesi için ayrı bir servis yazılacaktır.
 Bu servisde sistemde ki her bir kullanıcı için banka bilgileri(bakiye, kredi kartı no vb.) kontrol edilerek
@@ -58,7 +58,7 @@ Bu servisde sistemde ki her bir kullanıcı için banka bilgileri(bakiye, kredi 
 
 ### Projede kullanılacaklar:
 
-1 Web projesi backend için .Net Core, frontend için React.js kullanın.
-2 Sistemin yönetimi/database için MS SQL Server kullanın.
-3 Kredi kartı servisi için. Veriler mongodb de tutulacak. Servis .Net WebApi olarak yazılacaktır.
-4 Mümkün olduğu kadar derslerde işlenen konular projeye entegre edilmelidir
+1. Web projesi backend için .Net Core, frontend için React.js kullanın.
+2. Sistemin yönetimi/database için MS SQL Server kullanın.
+3. Kredi kartı servisi için. Veriler mongodb de tutulacak. Servis .Net WebApi olarak yazılacaktır.
+4. Mümkün olduğu kadar derslerde işlenen konular projeye entegre edilmelidir
